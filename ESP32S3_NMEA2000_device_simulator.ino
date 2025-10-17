@@ -10,7 +10,7 @@ PGN 130316,Temperature, Extended Range
 PGN 130313 Humidity
 
 For use with this board:
-https://www.skpang.co.uk/products/esp32s3-can-bus-board
+https://www.skpang.co.uk/products/esp32s3-nmea2000-device-simulator
 
 
 Ensure these libraries are installed first:
